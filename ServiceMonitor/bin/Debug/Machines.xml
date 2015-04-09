@@ -1,0 +1,13 @@
+<ArrayOfWindowsMachine>
+  <WindowsMachine>
+    <IsSelected>false</IsSelected>
+    <Name>.</Name>
+    <Services>
+      <IsSelected>false</IsSelected>
+      <Name>Print Spooler</Name>
+      <Status>Started</Status>
+      <StartUpType>Automatic</StartUpType>
+    </Services>
+    <IsWmiEnabled>true</IsWmiEnabled>
+  </WindowsMachine>
+</ArrayOfWindowsMachine>

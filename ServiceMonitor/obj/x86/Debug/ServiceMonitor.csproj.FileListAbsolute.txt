@@ -1,0 +1,12 @@
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\bin\Debug\ServiceMonitor.exe
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\bin\Debug\ServiceMonitor.pdb
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.csprojResolveAssemblyReference.cache
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.FrmHome.resources
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.frmListServices.resources
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.frmLogon.resources
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.frmManage.resources
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.frmStatus.resources
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.Properties.Resources.resources
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.csproj.GenerateResource.Cache
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.exe
+D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.pdb
